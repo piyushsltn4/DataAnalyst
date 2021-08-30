@@ -1,2 +1,2 @@
 # Data Analyst
-BigData Learning Hub
+Learning Hub
